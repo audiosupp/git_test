@@ -1,1 +1,1 @@
-This is assupp first git project!
+Hello Odin!
